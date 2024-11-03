@@ -1,4 +1,4 @@
-# Unreal editor theme collection
+# Unreal editor theme Evangelion
 Evangelion theme for unreal. Download the theme you want and go to
 `General -> Appearance -> Active Theme` and import the theme from the downloaded
 location.
