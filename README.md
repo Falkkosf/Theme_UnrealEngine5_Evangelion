@@ -12,6 +12,8 @@ location.
 ![Steam](screenshots/2.png)
 
 
-
-
+## If you want same wallpaper add it here
+Import image wallpaper from folder Wallpaper to unreal engine content browser 
+`General -> Appearance -> Background Brush -> Image`
+![Steam](screenshots/3.png)
 
